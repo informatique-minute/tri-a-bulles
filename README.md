@@ -1,6 +1,7 @@
 # tri-a-bulles
 
 Vous trouverez ici des exemples de codes sources du tri à bulles dans différents langages:
+ - C
  - python
  
  
